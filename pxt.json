@@ -1,7 +1,7 @@
 {
     "name": "pxt-smartlock",
     "version": "0.0.0",
-    "description": "",
+    "description": "Include Hexkeypad, wifi and OLED packages",
     "dependencies": {
         "core": "*",
         "radio": "*",
